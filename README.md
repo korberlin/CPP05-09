@@ -145,6 +145,3 @@ These advanced modules pushed the boundaries of what we had learned in earlier p
 
 **Thank you for exploring the advanced CPP Modules repository!**  
 Feel free to contribute, ask questions, or share your feedback as I continue to refine my C++ expertise. 🚀
-``` 
-
-This README maintains the consistent style of the previous one, with placeholders for badges and covers. Let me know if you'd like to further refine or customize it!
